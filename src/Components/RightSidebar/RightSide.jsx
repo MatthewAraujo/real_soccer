@@ -40,13 +40,17 @@ const RightSide = () => {
   return (
     <div className="flex flex-col h-screen bg-white shadow-lg border-2 rounded-l-xl">
       <div className="flex flex-col items-center relative pt-10">
-        <img className="h-48 rounded-md" src={waterslide} alt="nature"></img>
+        <img
+          className="h-48 rounded-md"
+          src="https://instagram.fsdu8-2.fna.fbcdn.net/v/t39.30808-6/398490142_913521570137909_6670672259410822561_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEzMjAuc2RyLmYzMDgwOCJ9&_nc_ht=instagram.fsdu8-2.fna.fbcdn.net&_nc_cat=1&_nc_ohc=mjSTAmPhy2sQ7kNvgEBg-Nc&edm=ACWDqb8AAAAA&ccb=7-5&ig_cache_key=MzIyODkyNDcxOTM5ODc1MDY2Mg%3D%3D.2-ccb7-5&oh=00_AfArdHR2T1cSk0GIM6CBurXmgCxgRg8tUaDaPrOYi-CSog&oe=66367181&_nc_sid=ee9879"
+          alt="nature"
+        ></img>
       </div>
       <p className="font-roboto font-normal text-sm text-gray-700 max-w-fit no-underline tracking-normal leading-tight py-2 mx-2">
-        Through photography, the beauty of Mother Nature can be frozen in time.
-        This category celebrates the magic of our planet and beyond — from the
-        immensity of the great outdoors, to miraculous moments in your own
-        backyard.
+        Noite de glória e paixão no Maracanã! O Fluminense, com toda sua raça e
+        tradição, conquista pela primeira vez a cobiçada Taça Libertadores da
+        América, um feito que ficará marcado para sempre nos corações dos
+        tricolores.
       </p>
       <div className="mx-2 mt-10">
         <p className="font-roboto font-medium text-sm text-gray-700 no-underline tracking-normal leading-none">

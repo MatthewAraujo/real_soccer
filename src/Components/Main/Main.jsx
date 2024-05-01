@@ -146,7 +146,7 @@ const Main = () => {
   }, [SUBMIT_POST]);
 
   return (
-    <div className="flex flex-col items-center">
+    <div className="mt-5 flex flex-col items-center">
       <div className="flex flex-col py-4 w-full bg-white rounded-3xl shadow-lg">
         <div className="flex items-center border-b-2 border-gray-300 pb-4 pl-4 w-full">
           <Avatar
